@@ -256,6 +256,8 @@ Preston-Werner](http://tom.preston-werner.com)によって書かれました。
 
 フィードバックを残したければ、[GitHubでissueをオープン](https://github.com/mojombo/semver/issues)
 して下さい。
+（訳注：この日本語訳へのフィードバックは、[semver-ja.github.ioでissueをオープン](https://github.com/semver-ja/semver-ja.github.io/issues)
+して下さい。）
 
 ライセンス
 -------
