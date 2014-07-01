@@ -3,7 +3,7 @@
 [Semantic Versioning 2.0.0](http://semver.org/spec/v2.0.0.html)を
 ライセンス([Creative Commons - CC BY 3.0](http://creativecommons.org/licenses/by/3.0/))にもとづき翻訳します。
 
-原文は、[GitHub上の現時点での最新のコミット](https://github.com/mojombo/semver/tree/255bc951da97e1642050d56170b969c702094f10)を使用しています。
+原文は、[GitHub上でv2.0.0のタグがついているコミット](https://github.com/mojombo/semver/tree/9eca13516c58f0e9456cb2accce266fce330aaa6)を使用しています。
 
 なお、翻訳にあたり下記を参考にさせて頂きました。
 
